@@ -49,9 +49,9 @@ const Privatumzug = () => (
       <br />
       <p>
         Sie suchen ein seriöses und zuverlässiges Umzugsunternehmen für Ihren
-        Privatumzug in Hildesheim? Dann hat Ihre Suche hier und jetzt ein Ende.
+        Privatumzug in Wolfsburg? Dann hat Ihre Suche hier und jetzt ein Ende.
         Denn wir von Aust Umzüge sind eine professionelle Umzugsfirma aus
-        Hildesheim für kleine und große Privatumzüge in der gesamten Region. Ein
+        Wolfsburg für kleine und große Privatumzüge in der gesamten Region. Ein
         seriöses Umzugsunternehmen für den Privatumzug zu finden, dass dann auch
         noch preiswert ist, ist wirklich nicht einfach. Denn das Angebot ist
         groß und die Leistungen ganz unterschiedlich. Woher soll man dann
@@ -77,7 +77,7 @@ const Privatumzug = () => (
         vor der Haustür für den Umzugswagen. Manchmal ist es aber auch der
         Zeitdruck, es muss dann alles ganz schnell und unbedingt innerhalb eines
         festen Zeitfensters erledigt werden. Für uns ist das alles kein Problem.
-        Wir haben schon unzählige Privatumzüge in und um Hildesheim realisiert.
+        Wir haben schon unzählige Privatumzüge in und um Wolfsburg realisiert.
         Wir bieten Ihnen nicht nur fleißige und ortskundige Umzugshelfer und den
         Transporter, sondern auch das Umzugsmaterial. Denn wir liefern Ihnen auf
         Wunsch auch die Umzugskartons, Kleiderboxen und Polstermaterial bis in

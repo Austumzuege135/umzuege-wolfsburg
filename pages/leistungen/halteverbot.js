@@ -50,7 +50,7 @@ const Halteverbot = () => (
         Sie stehen kurz vor Ihrem Umzug und müssen noch viel erledigen? Dann
         machen Sie sich Ihren Umzug einfacher, mit einem professionellen
         Umzugsunternehmen. Fleißige Umzugshelfer von Aust Umzüge erledigen den
-        Umzug in Hildesheim und Umgebung im Handumdrehen für Sie! Sie wohnen
+        Umzug in Wolfsburg und Umgebung im Handumdrehen für Sie! Sie wohnen
         städtisch und in einer dicht bebauten Straße mit wenigen
         Parkmöglichkeiten? Was machen Sie dann am Umzugstag, wo parken Sie den
         Transporter, der Ihr Umzugsgut von A nach B bringen soll? Für jene, die
@@ -58,7 +58,7 @@ const Halteverbot = () => (
         Einrichtung einer Halteverbotszone am Umzugstag an. Dies erspart Ihnen
         unnötige Laufwege und Schlepperei am Umzugstag. Schließlich muss Ihr
         gesamtes Hab und Gut verladen werden. Wenden Sie sich an uns, wir sind
-        ein erfahrenes Umzugsunternehmen aus Hildesheim und haben schon viele
+        ein erfahrenes Umzugsunternehmen aus Wolfsburg und haben schon viele
         Umzüge aller Art erfolgreich erledigt.
       </p>
       <br />
@@ -78,7 +78,7 @@ const Halteverbot = () => (
         Bearbeitungszeit in Kauf nehmen. Damit Sie bei Ihrem Umzug keine langen
         Laufwege haben oder womöglich noch im Halteverbot parken müssen und
         sogar noch einen Strafzettel kassieren, wenden Sie sich an uns. Wir
-        kümmern uns um die Einrichtung einer Halteverbotszone in Hildesheim und
+        kümmern uns um die Einrichtung einer Halteverbotszone in Wolfsburg und
         der gesamten Region.
       </p>
       <br />

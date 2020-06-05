@@ -4,7 +4,9 @@ import Link from "next/link";
 const Agbs = () => (
   <div>
     <Head>
+      <meta name="googlebot" content="noindex" />
       <title>Aust Umzüge und Haushaltsauflösungen</title>
+
       <meta
         name="description"
         content="Umzüge und Haushaltsauflösungen. Unsere Allgemeinen Geschäftsbedingungen."

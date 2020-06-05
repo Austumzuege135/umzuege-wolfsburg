@@ -57,20 +57,20 @@ const Demontage = () => (
         eingespieltes Umzugsteam realisiert in kürzester Zeit eine komplette
         Demontage Ihrer Küche, Schrankwand, Sofalandschaften und vieles mehr.
         Wir bieten Ihnen eine preiswerte Demontage und Montage Ihrer Möbel bei
-        Ihrem Umzug in Hildesheim. Vertrauen Sie den Profis von Aust Umzüge!
+        Ihrem Umzug in Wolfsburg. Vertrauen Sie den Profis von Aust Umzüge!
       </p>
       <br />
       <br />
       <br />
       <br />
       <h3>
-        Preiswerte Möbelmontage und Demontage bei Ihrem Umzug in Hildesheim
+        Preiswerte Möbelmontage und Demontage bei Ihrem Umzug in Wolfsburg
       </h3>
       <br />
       <br />
       <p>
         Alles aus einer Hand – wir übernehmen Ihre komplette Möbeldemontage und
-        Möbelmontage! Aust Umzüge Hildesheim, hat schon viele Umzüge problemlos
+        Möbelmontage! Aust Umzüge Wolfsburg, hat schon viele Umzüge problemlos
         gemeistert. Unsere fleißigen Möbelpacker sind dank der vorab
         durchgeführten Umzugsplanung auf die Montage und Demontage Ihrer Möbel
         optimal vorbereitet. Unser Umzugsteam übernimmt die Demontage der nicht

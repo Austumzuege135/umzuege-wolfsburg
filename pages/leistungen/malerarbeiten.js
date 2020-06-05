@@ -65,7 +65,7 @@ const Malerarbeiten = () => (
       <br />
       <br />
       <br />
-      <h3>Unsere Leistungen rund um Ihren Umzug in Hildesheim</h3>
+      <h3>Unsere Leistungen rund um Ihren Umzug in Wolfsburg</h3>
       <br />
       <br />
       <p>
@@ -73,7 +73,7 @@ const Malerarbeiten = () => (
         Herausforderungen. Das können die örtlichen Gegebenheiten sein, die
         Parkplatzsituation vor der Haustür oder ein knappes Zeitfenster. Für uns
         als erfahrene Umzugsfirma ist das alles kein Problem. Wir haben schon
-        unzählige Umzüge in und um Hildesheim realisiert. Wir bieten Ihnen nicht
+        unzählige Umzüge in und um Wolfsburg realisiert. Wir bieten Ihnen nicht
         nur fleißige und ortskundige Umzugshelfer und den Transporter, sondern
         auch das Umzugsmaterial sowie einen Umzugsservice rund um Ihren Umzug.
         Denn wir liefern Ihnen auf Wunsch auch die Umzugskartons bis in die
@@ -94,7 +94,7 @@ const Malerarbeiten = () => (
       <p>
         Für Ihre finanzielle Planungssicherheit während des Umzugs, erhalten Sie
         von uns kostenlose und unverbindliche Angebote für Malerarbeiten rund um
-        Ihren Umzug in Hildesheim und der Region. Ganz gleich, ob es sich dabei
+        Ihren Umzug in Wolfsburg und der Region. Ganz gleich, ob es sich dabei
         um einen Privatumzug oder Firmenumzug handelt, von uns erhalten Sie
         faire Preise und Angebote mit Festpreisgarantie. Fordern Sie jetzt Ihr
         Malerangebot online bei Aust Umzüge an!

@@ -49,7 +49,7 @@ const FernUndUebersee = () => (
         Sie planen schon seit längerem Ihren Fernumzug und sind jetzt auf der
         Suche nach einem zuverlässigen und preiswerten Umzugsunternehmen? Dann
         sind Sie hier bei Aust Umzüge genau richtig! Denn wir realisieren
-        Fernumzüge von Hildesheim aus, oder jeder anderen Stadt in Deutschland,
+        Fernumzüge von Wolfsburg aus, oder jeder anderen Stadt in Deutschland,
         europaweit Fernumzüge oder auch Überseeumzüge. Ganz gleich ob es sich
         dabei um einen privaten Umzug oder um einen Fernumzug mit der Firma
         handelt, wir realisieren kleine und auch große Fernumzüge –

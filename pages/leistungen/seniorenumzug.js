@@ -53,7 +53,7 @@ const Seniorenumzug = () => (
         und beraten wir Sie gerne, um Ihren Seniorenumzug für Sie so angenehm
         wie möglich zu gestalten. Bei Seniorenumzügen ist es wichtig, dass ein
         Umzug möglichst stressfrei abläuft. Wir führen seit vielen Jahren
-        erfolgreich Seniorenumzüge in Hildesheim und Umgebung durch, von klein
+        erfolgreich Seniorenumzüge in Wolfsburg und Umgebung durch, von klein
         bis groß. Wir bieten Ihnen einen zuverlässigen Umzugsservice für Ihren
         Umzug zu einem fairen Preis! Mit Aust Umzüge sorgenfrei in einen neuen
         Lebensabschnitt.
@@ -66,7 +66,7 @@ const Seniorenumzug = () => (
       <br />
       <br />
       <p>
-        Ob ein kleiner oder großer Umzug in Hildesheim, jeder Seniorenumzug ist
+        Ob ein kleiner oder großer Umzug in Wolfsburg, jeder Seniorenumzug ist
         anders und stellt uns immer wieder vor neue Herausforderungen. Das
         können die örtlichen Gegebenheiten sein, wie eine Dachgeschosswohnung
         ohne Fahrstuhl oder es gibt keine Parkmöglichkeit vor der Haustür für

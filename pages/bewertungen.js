@@ -5,6 +5,7 @@ import { FaStar } from "react-icons/fa";
 const Bewertungen = () => (
   <div>
     <Head>
+      <meta name="googlebot" content="noindex" />
       <title>
         Bewertungen unserer bisherigen Kunden rund um die Themen Umzug,
         Haushaltsauflösungen, Entrümpelungen und mehr. Ihr professionelles

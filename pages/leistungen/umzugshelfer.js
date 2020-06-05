@@ -46,10 +46,10 @@ const Umzugshelfer = () => (
       <br />
       <br />
       <p>
-        Seriöse und fleißige Umzugshelfer in Hildesheim gesucht? Sie stecken
+        Seriöse und fleißige Umzugshelfer in Wolfsburg gesucht? Sie stecken
         gerade in Ihren Umzugsvorbereitungen und suchen händeringend gute
         Möbelpacker, dann können wir Ihnen weiterhelfen! Sie müssen Ihren Umzug
-        in Hildesheim nicht alleine erledigen, holen Sie sich professionelle
+        in Wolfsburg nicht alleine erledigen, holen Sie sich professionelle
         Hilfe von Aust Umzüge. Unsere Umzugshelfer sind Zuverlässig, freundlich
         und ortskundig. Dies garantiert Ihnen einen reibungslosen und schnellen
         Umzug. Wozu wollen Sie alles selber machen? Überlassen Sie die schwere
@@ -75,7 +75,7 @@ const Umzugshelfer = () => (
         Verschmutzungen geschützt sind. All das und noch viel mehr gehört zu
         einer guten Umzugsvorbereitung. Doch dann muss noch alles von A nach B
         geschleppt werden. Wir erledigen das alles für Sie, und zwar zu einem
-        absolut fairen Preis. Buchen Sie einfach Ihre Umzugshelfer in Hildesheim
+        absolut fairen Preis. Buchen Sie einfach Ihre Umzugshelfer in Wolfsburg
         online über Aust Umzüge und schonen Sie sich und Ihr Portemonnaie.
         <br />
         <br />

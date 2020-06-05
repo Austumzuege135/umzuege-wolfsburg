@@ -10,7 +10,7 @@ const Home = () => (
       </title>
       <meta
         name="description"
-        content="Aus Umzüge und Haushaltsauflösungen. Ihr Partner zum Thema Umzüge und Haushaltsauflösungen in Hildesheim und Region."
+        content="Aus Umzüge und Haushaltsauflösungen. Ihr Partner zum Thema Umzüge und Haushaltsauflösungen in Wolfsburg und Region."
       />
     </Head>
 
@@ -40,7 +40,7 @@ const Home = () => (
           <div className="holder">
             <h2>Umzüge und Haushaltsauflösungen</h2>
             <br />
-            <h3>Wir realisieren Ihren Umzug in Hildesheim und Umgebung</h3>
+            <h3>Wir realisieren Ihren Umzug in Wolfsburg und Umgebung</h3>
             <br />
             <br />
             <p>
@@ -48,7 +48,7 @@ const Home = () => (
               beginnen sollen? Es gibt jede Menge zu planen und organisieren.
               Doch keine Sorge, Ihren Umzug müssen Sie nicht alleine
               bewerkstelligen. Wir von Aust Umzüge organisieren und erledigen
-              Ihren Umzug in Hildesheim und Umgebung für Sie. Ein Umzug kostet
+              Ihren Umzug in Wolfsburg und Umgebung für Sie. Ein Umzug kostet
               viel Zeit und bedarf ein wenig Organisationsgeschick. Denn eine
               gute Planung und Organisation im Vorfeld spart Ihnen am Ende nicht
               nur Zeit ein, sondern auch viel Geld. Ein Umzug sollte gut
@@ -58,7 +58,7 @@ const Home = () => (
             </p>
             <br />
             <br />
-            <h3>Ihr professionelles Umzugsunternehmen aus Hildesheim</h3>
+            <h3>Ihr professionelles Umzugsunternehmen aus Wolfsburg</h3>
             <br />
             <br />
             <p>
@@ -91,7 +91,7 @@ const Home = () => (
               ein unverbindliches und maßgeschneidertes Angebot zu erstellen.
               Nehmen Sie dazu einfach mit uns Kontakt auf. Per Telefon, E-Mail
               oder online über das Kontaktformular auf unserer Homepage. Wir
-              freuen uns auf Ihren Kontakt und Ihren Umzug in Hildesheim!
+              freuen uns auf Ihren Kontakt und Ihren Umzug in Wolfsburg!
             </p>
             <br />
             <br />
@@ -149,12 +149,12 @@ const Home = () => (
             <br />
             <br />
             <p>
-              Was kostet ein Umzug in Hildesheim mit einer professionellen und
+              Was kostet ein Umzug in Wolfsburg mit einer professionellen und
               seriösen Umzugsfirma? Ein Umzug mit einem Umzugsunternehmen ist
               oftmals günstiger, als viele annehmen. In den meisten Fällen
               sparen Sie sogar jede Menge Geld, wenn Sie Ihren Umzug mit einer
               Umzugsfirma realisieren. Als erfahrenes Umzugsunternehmen in
-              Hildesheim kennen wir den Markt, wissen wo es die besten Preise
+              Wolfsburg kennen wir den Markt, wissen wo es die besten Preise
               gibt und erhalten vergünstigte Konditionen aufgrund einer
               partnerschaftlichen und engen Zusammenarbeit. Profitieren Sie von
               unseren günstigen Preisen. Fordern Sie dazu einfach bei uns
@@ -177,8 +177,8 @@ const Home = () => (
               rund um das Thema Umzug. Sie können uns auch gerne eine E-Mail
               schreiben, wir werden diese umgehend und ausführlich beantworten.
               Meta: Kostenlose und unverbindliche Angebote für Ihren Umzug in
-              Hildesheim erhalten Sie hier online bei Aust Umzüge – Ihrem
-              Umzugsunternehmen aus Hildesheim.
+              Wolfsburg erhalten Sie hier online bei Aust Umzüge – Ihrem
+              Umzugsunternehmen aus Wolfsburg.
             </p>
             <br />
             <br />

@@ -51,9 +51,9 @@ const Firmenumzug = () => (
       <br />
       <p>
         Sie suchen ein seriöses und zuverlässiges Umzugsunternehmen für Ihren
-        Firmenumzug in Hildesheim? Dann sind Sie hier bei Aust Umzüge genau
+        Firmenumzug in Wolfsburg? Dann sind Sie hier bei Aust Umzüge genau
         richtig. Denn wir sind ein professionelles Umzugsunternehmen aus
-        Hildesheim für Firmenumzüge aller Art in der gesamten Region. Ein
+        Wolfsburg für Firmenumzüge aller Art in der gesamten Region. Ein
         erfahrenes und seriöses Umzugsunternehmen für einen Firmenumzug zu
         finden, ist wirklich nicht einfach. Denn das Angebot auf dem Markt ist
         groß und die angebotenen Leistungen ganz unterschiedlich. Einen
@@ -82,12 +82,11 @@ const Firmenumzug = () => (
         Ausfallzeiten, garantieren wir Ihnen einen schnellen Umzug innerhalb des
         vorgegebenen Zeitfensters. Für uns gehören solche Herausforderungen zum
         Tagesgeschäft. Wir haben schon unzählige Firmenumzüge in und um
-        Hildesheim realisiert und bieten Ihnen nicht nur fleißige und
-        ortskundige Umzugshelfer sowie den Transport, sondern auch das
-        Umzugsmaterial. Denn wir liefern Ihnen auf Wunsch auch die
-        Umzugskartons, Polstermaterial und Packband bis in die Firma und
-        entsorgen nach dem Umzug das genutzte Umzugsmaterial ordnungsgemäß für
-        Sie.
+        Wolfsburg realisiert und bieten Ihnen nicht nur fleißige und ortskundige
+        Umzugshelfer sowie den Transport, sondern auch das Umzugsmaterial. Denn
+        wir liefern Ihnen auf Wunsch auch die Umzugskartons, Polstermaterial und
+        Packband bis in die Firma und entsorgen nach dem Umzug das genutzte
+        Umzugsmaterial ordnungsgemäß für Sie.
       </p>
       <br />
       <br />

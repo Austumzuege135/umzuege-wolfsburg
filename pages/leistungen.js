@@ -49,9 +49,9 @@ const Leistungen = () => (
           <h3>Privatumzug</h3>
           <p>
             Sie suchen ein seriöses und zuverlässiges Umzugsunternehmen für
-            Ihren Privatumzug in Hildesheim? Dann hat Ihre Suche hier und jetzt
+            Ihren Privatumzug in Wolfsburg? Dann hat Ihre Suche hier und jetzt
             ein Ende. Denn wir von Aust Umzüge sind eine professionelle
-            Umzugsfirma aus Hildesheim für kleine und große Privatumzüge in der
+            Umzugsfirma aus Wolfsburg für kleine und große Privatumzüge in der
             gesamten Region. Ein seriöses Umzugsunternehmen für den Privatumzug
             zu finden, dass dann auch noch preiswert ist, ist wirklich nicht
             einfach. Denn das Angebot ist groß und die Leistungen ganz
@@ -100,13 +100,13 @@ const Leistungen = () => (
           <h3>Firmenumzug</h3>
           <p>
             Sie suchen ein seriöses und zuverlässiges Umzugsunternehmen für
-            Ihren Firmenumzug in Hildesheim? Dann sind Sie hier bei Aust Umzüge
+            Ihren Firmenumzug in Wolfsburg? Dann sind Sie hier bei Aust Umzüge
             genau richtig. Denn wir sind ein professionelles Umzugsunternehmen
-            aus Hildesheim für Firmenumzüge aller Art in der gesamten Region.
-            Ein erfahrenes und seriöses Umzugsunternehmen für einen Firmenumzug
-            zu finden, ist wirklich nicht einfach. Denn das Angebot auf dem
-            Markt ist groß und die angebotenen Leistungen ganz unterschiedlich.
-            Einen korrekten Vergleich der Anbieter mit dem gleichen
+            aus Wolfsburg für Firmenumzüge aller Art in der gesamten Region. Ein
+            erfahrenes und seriöses Umzugsunternehmen für einen Firmenumzug zu
+            finden, ist wirklich nicht einfach. Denn das Angebot auf dem Markt
+            ist groß und die angebotenen Leistungen ganz unterschiedlich. Einen
+            korrekten Vergleich der Anbieter mit dem gleichen
             Preis-Leistungs-Verhältnis zu machen, ist da nicht leicht. Sparen
             Sie sich die mühevolle Arbeit und fordern Sie bei uns Ihr
             kostenloses Umzugsangebot an. Wir bieten Ihnen einen zuverlässigen
@@ -151,7 +151,7 @@ const Leistungen = () => (
             Sie planen schon seit längerem Ihren Fernumzug und sind jetzt auf
             der Suche nach einem zuverlässigen und preiswerten
             Umzugsunternehmen? Dann sind Sie hier bei Aust Umzüge genau richtig!
-            Denn wir realisieren Fernumzüge von Hildesheim aus, oder jeder
+            Denn wir realisieren Fernumzüge von Wolfsburg aus, oder jeder
             anderen Stadt in Deutschland, europaweit Fernumzüge oder auch
             Überseeumzüge. Ganz gleich ob es sich dabei um einen privaten Umzug
             oder um einen Fernumzug mit der Firma handelt, wir realisieren
@@ -205,7 +205,7 @@ const Leistungen = () => (
             hier helfen und beraten wir Sie gerne, um Ihren Seniorenumzug für
             Sie so angenehm wie möglich zu gestalten. Bei Seniorenumzügen ist es
             wichtig, dass ein Umzug möglichst stressfrei abläuft. Wir führen
-            seit vielen Jahren erfolgreich Seniorenumzüge in Hildesheim und
+            seit vielen Jahren erfolgreich Seniorenumzüge in Wolfsburg und
             Umgebung durch, von klein bis groß. Wir bieten Ihnen einen
             zuverlässigen Umzugsservice für Ihren Umzug zu einem fairen Preis!
             Mit Aust Umzüge sorgenfrei in einen neuen Lebensabschnitt.
@@ -246,10 +246,10 @@ const Leistungen = () => (
         <div>
           <h3>Umzugshelfer</h3>
           <p>
-            Seriöse und fleißige Umzugshelfer in Hildesheim gesucht? Sie stecken
+            Seriöse und fleißige Umzugshelfer in Wolfsburg gesucht? Sie stecken
             gerade in Ihren Umzugsvorbereitungen und suchen händeringend gute
             Möbelpacker, dann können wir Ihnen weiterhelfen! Sie müssen Ihren
-            Umzug in Hildesheim nicht alleine erledigen, holen Sie sich
+            Umzug in Wolfsburg nicht alleine erledigen, holen Sie sich
             professionelle Hilfe von Aust Umzüge. Unsere Umzugshelfer sind
             Zuverlässig, freundlich und ortskundig. Dies garantiert Ihnen einen
             reibungslosen und schnellen Umzug. Wozu wollen Sie alles selber
@@ -298,7 +298,7 @@ const Leistungen = () => (
             Sie stehen kurz vor Ihrem Umzug und müssen noch viel erledigen? Dann
             machen Sie sich Ihren Umzug einfacher, mit einem professionellen
             Umzugsunternehmen. Fleißige Umzugshelfer von Aust Umzüge erledigen
-            den Umzug in Hildesheim und Umgebung im Handumdrehen für Sie! Sie
+            den Umzug in Wolfsburg und Umgebung im Handumdrehen für Sie! Sie
             wohnen städtisch und in einer dicht bebauten Straße mit wenigen
             Parkmöglichkeiten? Was machen Sie dann am Umzugstag, wo parken Sie
             den Transporter, der Ihr Umzugsgut von A nach B bringen soll? Für
@@ -307,7 +307,7 @@ const Leistungen = () => (
             erspart Ihnen unnötige Laufwege und Schlepperei am Umzugstag.
             Schließlich muss Ihr gesamtes Hab und Gut verladen werden. Wenden
             Sie sich an uns, wir sind ein erfahrenes Umzugsunternehmen aus
-            Hildesheim und haben schon viele Umzüge aller Art erfolgreich
+            Wolfsburg und haben schon viele Umzüge aller Art erfolgreich
             erledigt.
           </p>
           <br />
@@ -392,7 +392,7 @@ const Leistungen = () => (
             die im Zusammenhang mit Ihrem Umzug stehen und bieten Ihnen
             Hilfestellungen, damit Ihr Umzug erfolgreich verläuft – ohne
             Zwischenfälle. Denn wir sind eine erfahrene Umzugsfirma aus
-            Hildesheim, die weiß worauf es bei einem Umzug ankommt und was
+            Wolfsburg, die weiß worauf es bei einem Umzug ankommt und was
             beachtet werden sollte. Wir realisieren nicht nur Umzüge aller Art
             zum günstigen Preis, sondern bieten Ihnen auch eine professionelle
             Umzugsberatung. Kontaktieren Sie uns jederzeit. Wir bieten Ihnen
@@ -447,7 +447,7 @@ const Leistungen = () => (
             realisiert in kürzester Zeit eine komplette Demontage Ihrer Küche,
             Schrankwand, Sofalandschaften und vieles mehr. Wir bieten Ihnen eine
             preiswerte Demontage und Montage Ihrer Möbel bei Ihrem Umzug in
-            Hildesheim. Vertrauen Sie den Profis von Aust Umzüge!
+            Wolfsburg. Vertrauen Sie den Profis von Aust Umzüge!
           </p>
           <br />
           <br />
@@ -485,9 +485,9 @@ const Leistungen = () => (
         <div>
           <h3>Haushaltsauflösungen</h3>
           <p>
-            Sie benötigen Hilfe bei einer Haushaltsauflösung in Hildesheim? Dann
+            Sie benötigen Hilfe bei einer Haushaltsauflösung in Wolfsburg? Dann
             sind Sie hier bei Aust Umzüge genau an der richtigen Adresse! Denn
-            als professionelles Umzugsunternehmen aus Hildesheim kümmern wir uns
+            als professionelles Umzugsunternehmen aus Wolfsburg kümmern wir uns
             nicht nur um Umzüge und der Gleichen sondern führen auch
             Haushaltsauflösungen jeder Art durch. Haushaltsauflösungen sind oft
             emotional, denn sie finden meistens unfreiwillig statt und an allen

@@ -4,7 +4,9 @@ import Link from "next/link";
 const Datenschutz = () => (
   <div>
     <Head>
+      <meta name="googlebot" content="noindex" />
       <title>Aust Umzüge und Haushaltsauflösungen</title>
+
       <meta
         name="description"
         content="Unsere Datenschutzerklärung. Auch Umzugsfirmen benötigen eine."

@@ -43,13 +43,13 @@ const Haushaltsaufloesungen = () => (
       <br />
       <br />
       <br />
-      <h2>Professionelle Haushalstauflösungen in Hildesheim und Umgebung</h2>
+      <h2>Professionelle Haushalstauflösungen in Wolfsburg und Umgebung</h2>
       <br />
       <br />
       <p>
-        Sie benötigen Hilfe bei einer Haushaltsauflösung in Hildesheim? Dann
-        sind Sie hier bei Aust Umzüge genau an der richtigen Adresse! Denn als
-        professionelles Umzugsunternehmen aus Hildesheim kümmern wir uns nicht
+        Sie benötigen Hilfe bei einer Haushaltsauflösung in Wolfsburg? Dann sind
+        Sie hier bei Aust Umzüge genau an der richtigen Adresse! Denn als
+        professionelles Umzugsunternehmen aus Wolfsburg kümmern wir uns nicht
         nur um Umzüge und der Gleichen sondern führen auch Haushaltsauflösungen
         jeder Art durch. Haushaltsauflösungen sind oft emotional, denn sie
         finden meistens unfreiwillig statt und an allen Gegenständen in einer
